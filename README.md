@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Abhinay :wave: :smile:
 A front-end developer on a mission to get the hang of Full Stack Web and Mobile Applications Development. Consistency makes us Masters...:v:
 - 👀 Especially in love with HTML, CSS & React.js with Redux :game_die:
-- 🌱 I’m currently learning learning Node.js...
+- 🌱 I’m mastering Node.js...
 - 💞️ I’m looking to collaborate on projects where Javascript(Full Stack) is predominantly used.
 - :computer: Also a Salesforce Certified Administrator.
 - :thought_balloon: Volunteering knowledge is a part of our learning curve..:relaxed:
